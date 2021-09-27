@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/image-puzzle/static/css/main.7f3d668e.chunk.css",
-    "main.js": "/image-puzzle/static/js/main.d403e88f.chunk.js",
-    "main.js.map": "/image-puzzle/static/js/main.d403e88f.chunk.js.map",
-    "runtime-main.js": "/image-puzzle/static/js/runtime-main.528d7edd.js",
-    "runtime-main.js.map": "/image-puzzle/static/js/runtime-main.528d7edd.js.map",
-    "static/js/2.dad9b5a3.chunk.js": "/image-puzzle/static/js/2.dad9b5a3.chunk.js",
-    "static/js/2.dad9b5a3.chunk.js.map": "/image-puzzle/static/js/2.dad9b5a3.chunk.js.map",
-    "static/js/3.13c5c38a.chunk.js": "/image-puzzle/static/js/3.13c5c38a.chunk.js",
-    "static/js/3.13c5c38a.chunk.js.map": "/image-puzzle/static/js/3.13c5c38a.chunk.js.map",
-    "index.html": "/image-puzzle/index.html",
-    "static/css/main.7f3d668e.chunk.css.map": "/image-puzzle/static/css/main.7f3d668e.chunk.css.map",
-    "static/js/2.dad9b5a3.chunk.js.LICENSE.txt": "/image-puzzle/static/js/2.dad9b5a3.chunk.js.LICENSE.txt"
+    "main.css": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/css/main.7f3d668e.chunk.css",
+    "main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.d403e88f.chunk.js",
+    "main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.d403e88f.chunk.js.map",
+    "runtime-main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.ac8a255c.js",
+    "runtime-main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.ac8a255c.js.map",
+    "static/js/2.dad9b5a3.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js",
+    "static/js/2.dad9b5a3.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js.map",
+    "static/js/3.13c5c38a.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.13c5c38a.chunk.js",
+    "static/js/3.13c5c38a.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.13c5c38a.chunk.js.map",
+    "index.html": "//github.com/DIGILABTEAM/CetanilTM_puzzle/index.html",
+    "static/css/main.7f3d668e.chunk.css.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/css/main.7f3d668e.chunk.css.map",
+    "static/js/2.dad9b5a3.chunk.js.LICENSE.txt": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.528d7edd.js",
+    "static/js/runtime-main.ac8a255c.js",
     "static/js/2.dad9b5a3.chunk.js",
     "static/css/main.7f3d668e.chunk.css",
     "static/js/main.d403e88f.chunk.js"
