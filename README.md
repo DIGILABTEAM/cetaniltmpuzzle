@@ -1,5 +1,5 @@
 # image-puzzle
-![Build, test and deploy](https://github.com/larsbergqvist/image-puzzle/actions/workflows/ci.yml/badge.svg)
+<!-- ![Build, test and deploy](https://github.com/larsbergqvist/image-puzzle/actions/workflows/ci.yml/badge.svg) -->
 
 <p>
 
