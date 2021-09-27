@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/css/main.7f3d668e.chunk.css",
-    "main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.d403e88f.chunk.js",
-    "main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.d403e88f.chunk.js.map",
-    "runtime-main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.ac8a255c.js",
-    "runtime-main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.ac8a255c.js.map",
-    "static/js/2.dad9b5a3.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js",
-    "static/js/2.dad9b5a3.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js.map",
-    "static/js/3.13c5c38a.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.13c5c38a.chunk.js",
-    "static/js/3.13c5c38a.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.13c5c38a.chunk.js.map",
+    "main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.bb1afc5c.chunk.js",
+    "main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/main.bb1afc5c.chunk.js.map",
+    "runtime-main.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.8c7528b0.js",
+    "runtime-main.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/runtime-main.8c7528b0.js.map",
+    "static/js/2.82beb076.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.82beb076.chunk.js",
+    "static/js/2.82beb076.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.82beb076.chunk.js.map",
+    "static/js/3.a31fd1a2.chunk.js": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.a31fd1a2.chunk.js",
+    "static/js/3.a31fd1a2.chunk.js.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/3.a31fd1a2.chunk.js.map",
     "index.html": "//github.com/DIGILABTEAM/CetanilTM_puzzle/index.html",
     "static/css/main.7f3d668e.chunk.css.map": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/css/main.7f3d668e.chunk.css.map",
-    "static/js/2.dad9b5a3.chunk.js.LICENSE.txt": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.dad9b5a3.chunk.js.LICENSE.txt"
+    "static/js/2.82beb076.chunk.js.LICENSE.txt": "//github.com/DIGILABTEAM/CetanilTM_puzzle/static/js/2.82beb076.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac8a255c.js",
-    "static/js/2.dad9b5a3.chunk.js",
+    "static/js/runtime-main.8c7528b0.js",
+    "static/js/2.82beb076.chunk.js",
     "static/css/main.7f3d668e.chunk.css",
-    "static/js/main.d403e88f.chunk.js"
+    "static/js/main.bb1afc5c.chunk.js"
   ]
 }
