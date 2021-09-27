@@ -9,9 +9,9 @@
     yarn install
     yarn start
 ```
-<p>Try it out live here: https://larsbergqvist.github.io/image-puzzle/  
+<p>Try it out live here: https://digilabteam.github.io/CetanilTM_puzzle/  
 <p>This is a simple image tile puzzle game implemented in React with Redux as state container  
     
-![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/screenshot.png?raw=true 'Image puzzle')
+<!-- ![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/screenshot.png?raw=true 'Image puzzle') -->
 
-![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation')
+<!-- ![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation') -->
