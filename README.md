@@ -4,7 +4,7 @@
 <p>
 
 ```javascript
-    git clone https://github.com/LarsBergqvist/image-puzzle
+    git clone https://digilabteam.github.io/CetanilTM_puzzle/
     cd image-puzzle
     yarn install
     yarn start
