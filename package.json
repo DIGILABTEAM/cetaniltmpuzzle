@@ -2,7 +2,7 @@
   "name": "cetaniltmpuzzle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DIGILABTEAM/cetaniltmpuzzle",
+  "homepage": "https://digilabteam.github.io/cetaniltmpuzzle/",
   "dependencies": {
     "@react-hook/window-size": "^3.0.7",
     "@testing-library/jest-dom": "^5.11.4",
