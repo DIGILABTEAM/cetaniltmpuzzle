@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DIGILABTEAM/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css",
-    "main.js": "/DIGILABTEAM/cetaniltmpuzzle/static/js/main.4a546935.chunk.js",
-    "main.js.map": "/DIGILABTEAM/cetaniltmpuzzle/static/js/main.4a546935.chunk.js.map",
-    "runtime-main.js": "/DIGILABTEAM/cetaniltmpuzzle/static/js/runtime-main.4464be1b.js",
-    "runtime-main.js.map": "/DIGILABTEAM/cetaniltmpuzzle/static/js/runtime-main.4464be1b.js.map",
-    "static/js/2.fad93b35.chunk.js": "/DIGILABTEAM/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js",
-    "static/js/2.fad93b35.chunk.js.map": "/DIGILABTEAM/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js.map",
-    "static/js/3.e486f61d.chunk.js": "/DIGILABTEAM/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js",
-    "static/js/3.e486f61d.chunk.js.map": "/DIGILABTEAM/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js.map",
-    "index.html": "/DIGILABTEAM/cetaniltmpuzzle/index.html",
-    "static/css/main.7f3d668e.chunk.css.map": "/DIGILABTEAM/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css.map",
-    "static/js/2.fad93b35.chunk.js.LICENSE.txt": "/DIGILABTEAM/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js.LICENSE.txt"
+    "main.css": "/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css",
+    "main.js": "/cetaniltmpuzzle/static/js/main.4a546935.chunk.js",
+    "main.js.map": "/cetaniltmpuzzle/static/js/main.4a546935.chunk.js.map",
+    "runtime-main.js": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js",
+    "runtime-main.js.map": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js.map",
+    "static/js/2.fad93b35.chunk.js": "/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js",
+    "static/js/2.fad93b35.chunk.js.map": "/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js.map",
+    "static/js/3.e486f61d.chunk.js": "/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js",
+    "static/js/3.e486f61d.chunk.js.map": "/cetaniltmpuzzle/static/js/3.e486f61d.chunk.js.map",
+    "index.html": "/cetaniltmpuzzle/index.html",
+    "static/css/main.7f3d668e.chunk.css.map": "/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css.map",
+    "static/js/2.fad93b35.chunk.js.LICENSE.txt": "/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4464be1b.js",
+    "static/js/runtime-main.e3157630.js",
     "static/js/2.fad93b35.chunk.js",
     "static/css/main.7f3d668e.chunk.css",
     "static/js/main.4a546935.chunk.js"
