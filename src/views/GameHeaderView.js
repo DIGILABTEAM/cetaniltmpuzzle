@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 const GameHeaderView = (props) =>
     <>
         <header className='game-header'>
-            <div className='game-title'> CETANIL</div>
+            <div className='game-title'> CETANIL-TM</div>
         </header>
         <div><h2>{props.gameName}</h2></div>
     </>;
