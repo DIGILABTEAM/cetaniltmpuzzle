@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cetaniltmpuzzle/static/css/main.7f3d668e.chunk.css",
-    "main.js": "/cetaniltmpuzzle/static/js/main.4a546935.chunk.js",
-    "main.js.map": "/cetaniltmpuzzle/static/js/main.4a546935.chunk.js.map",
+    "main.js": "/cetaniltmpuzzle/static/js/main.0516a224.chunk.js",
+    "main.js.map": "/cetaniltmpuzzle/static/js/main.0516a224.chunk.js.map",
     "runtime-main.js": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js",
     "runtime-main.js.map": "/cetaniltmpuzzle/static/js/runtime-main.e3157630.js.map",
     "static/js/2.fad93b35.chunk.js": "/cetaniltmpuzzle/static/js/2.fad93b35.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e3157630.js",
     "static/js/2.fad93b35.chunk.js",
     "static/css/main.7f3d668e.chunk.css",
-    "static/js/main.4a546935.chunk.js"
+    "static/js/main.0516a224.chunk.js"
   ]
 }
