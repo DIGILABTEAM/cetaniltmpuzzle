@@ -1,17 +1,17 @@
 # image-puzzle
-![Build, test and deploy](https://github.com/larsbergqvist/image-puzzle/actions/workflows/ci.yml/badge.svg)
+![Build, test and deploy](https://digilabteam.github.io/cetaniltmpuzzle/actions/workflows/ci.yml/badge.svg)
 
 <p>
 
 ```javascript
-    git clone https://github.com/LarsBergqvist/image-puzzle
+    git clone https://digilabteam.github.io/cetaniltmpuzzle/
     cd image-puzzle
     yarn install
     yarn start
 ```
-<p>Try it out live here: https://larsbergqvist.github.io/image-puzzle/  
+<p>Try it out live here: https://digilabteam.github.io/cetaniltmpuzzle/  
 <p>This is a simple image tile puzzle game implemented in React with Redux as state container  
     
-![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/screenshot.png?raw=true 'Image puzzle')
+![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/screenshot.png?raw=true 'Image puzzle')
 
-![Alt text](https://github.com/LarsBergqvist/image-puzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation')
+![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation')
