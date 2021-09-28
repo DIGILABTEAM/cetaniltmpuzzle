@@ -1,5 +1,5 @@
 # image-puzzle
-![Build, test and deploy](https://digilabteam.github.io/cetaniltmpuzzle/actions/workflows/ci.yml/badge.svg)
+<!-- ![Build, test and deploy](https://digilabteam.github.io/cetaniltmpuzzle/actions/workflows/ci.yml/badge.svg) -->
 
 <p>
 
@@ -12,6 +12,6 @@
 <p>Try it out live here: https://digilabteam.github.io/cetaniltmpuzzle/  
 <p>This is a simple image tile puzzle game implemented in React with Redux as state container  
     
-![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/screenshot.png?raw=true 'Image puzzle')
+<!-- ![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/screenshot.png?raw=true 'Image puzzle') -->
 
-![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation')
+<!-- ![Alt text](https://digilabteam.github.io/cetaniltmpuzzle/blob/main/image-puzzle.gif?raw=true 'Image puzzle animation') -->
